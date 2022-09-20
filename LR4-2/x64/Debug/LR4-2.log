@@ -1,0 +1,4 @@
+﻿  LR4-2.cpp
+C:\Users\ddv\Desktop\LR\LR4-2\LR4-2.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ddv\Desktop\LR\LR4-2\LR4-2.cpp(22,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LR4-2.vcxproj -> C:\Users\ddv\Desktop\LR\x64\Debug\LR4-2.exe

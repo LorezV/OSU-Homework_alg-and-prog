@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LR.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  LR.cpp
+C:\Users\ddv\Desktop\LR\LR\LR\LR.cpp(9,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ddv\Desktop\LR\LR\LR\LR.cpp(13,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LR.vcxproj -> C:\Users\ddv\Desktop\LR\LR\x64\Debug\LR1-1.exe

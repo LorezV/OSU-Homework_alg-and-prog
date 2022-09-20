@@ -1,0 +1,5 @@
+﻿  LR1-2.cpp
+C:\Users\ddv\Desktop\LR\LR\LR1-2\LR1-2.cpp(10,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\ddv\Desktop\LR\LR\LR1-2\LR1-2.cpp(13,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ddv\Desktop\LR\LR\LR1-2\LR1-2.cpp(14,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LR1-2.vcxproj -> C:\Users\ddv\Desktop\LR\LR\x64\Debug\LR1-2.exe
